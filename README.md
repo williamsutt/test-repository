@@ -1,2 +1,2 @@
 # test-repository
-# this is my test repository, which had been revised
+# this is my test repository, which has been revised
